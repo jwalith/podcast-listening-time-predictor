@@ -1,13 +1,12 @@
 # Podcast Listening Time Predictor 🎧
 
 A Machine Learning project to predict how long users are likely to listen to a podcast episode based on episode features.
-
+ML Projects	- Built and deployed a Machine Learning model using FastAPI to predict podcast listening time based on episode features; integrated a trained Random Forest pipeline with real-time prediction API; implemented API documentation using Swagger.
 This project uses:
 - **scikit-learn** to train the ML model
 - **FastAPI** to build a lightweight backend API
 - **Swagger UI** to test the API interactively
 
-ML Projects	- Built and deployed a Machine Learning model using FastAPI to predict podcast listening time based on episode features; integrated a trained Random Forest pipeline with real-time prediction API; implemented API documentation using Swagger.
 ---
 
 ## Project Structure
