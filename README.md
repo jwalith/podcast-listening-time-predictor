@@ -7,6 +7,7 @@ This project uses:
 - **FastAPI** to build a lightweight backend API
 - **Swagger UI** to test the API interactively
 
+ML Projects	- Built and deployed a Machine Learning model using FastAPI to predict podcast listening time based on episode features; integrated a trained Random Forest pipeline with real-time prediction API; implemented API documentation using Swagger.
 ---
 
 ## Project Structure
